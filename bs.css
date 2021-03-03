@@ -1,0 +1,31 @@
+.header{
+
+    height: 90vh;
+    width: 100%;
+    background: linear-gradient(to right, rgba(233, 151, 229, 0.7), rgba(132, 194, 229, 0.4)), url('px.jpg');
+    background-size: cover;
+    color: cornsilk;
+    /* background-color: coral; */
+}
+.h-100{
+    height: 100%;
+    width: 100%;
+}
+.btn{
+    border-radius: 15px !important;
+    padding: 8px !important;
+}
+.message{
+    background: linear-gradient(rgba(252, 253, 155, 0.5), rgba(252, 176, 239, 0.8));
+    height: 40%;
+}
+.download{
+    background: linear-gradient(to right, rgba(210, 252, 143, 0.6), rgba(240, 160, 229, 0.9),rgba(214, 240, 119, 0.9));
+}
+.icon {
+    font-size: 40px !important;
+    padding: 20px;
+} 
+.link{
+    background:linear-gradient( rgba(241, 239, 111, 0.4), rgba(150, 174, 241, 0.7),rgba(207, 124, 240, 0.8));
+}
